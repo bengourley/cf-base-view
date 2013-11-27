@@ -2,7 +2,7 @@
   "author": "Ben Gourley",
   "name": "cf-base-view",
   "description": "A base for frontend cf views to extend",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "tags": [],
   "repository": {
     "type": "git",
