@@ -9,7 +9,7 @@
     "url": "git@github.com:clocklimited/cf-base-view"
   },
   "publishConfig": {
-    "registry": "http://npm.clockte.ch"
+    "registry": "https://registry.npmjs.org"
   },
   "main": "base-view.js",
   "scripts": {
